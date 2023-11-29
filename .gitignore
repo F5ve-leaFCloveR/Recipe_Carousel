@@ -1,0 +1,5 @@
+config.cfg
+__pycache__
+source\__pycache__
+data_translate
+full_dataset.csv
